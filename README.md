@@ -1,5 +1,5 @@
 markdown
-# 🚀 Multi-Agent System: Code to Business Value Translator
+# 🚀 Agentic System: Code to Business Value Translator
 
 ## 📋 **Table of Contents**
 - [Overview](#-overview)
